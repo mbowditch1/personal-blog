@@ -6,7 +6,7 @@ $base-background: #e1e1db;
 $text-color: #373735;
 $article-tag: green;
 $lang-tag: red;
-$link-color: #40a0c9;
+$link-color: #2e7ca4;
 $target-color: yellow;
 $header-color: #262625;
 $separator-decoration: "//////";
@@ -99,6 +99,10 @@ body[darkmode] {
 html,
 body {
   background: $base-background;
+}
+
+summary {
+  color: $link-color;
 }
 
 header {
