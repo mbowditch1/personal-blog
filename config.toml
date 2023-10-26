@@ -33,4 +33,4 @@ highlight_theme = "visual-studio-dark"
 social_media = [
     { name = "GitHub", url = "https://github.com/mbowditch1" },
 ]
-default_theme = "dark"
+default_theme = "light"
