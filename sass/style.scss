@@ -7,6 +7,7 @@ $article-tag: green;
 $lang-tag: red;
 $link-color: #2a9d8f;
 $target-color: yellow;
+$header-color: #b56576;
 $separator-decoration: "//////";
 
 /**
@@ -19,6 +20,10 @@ $separator-decoration: "//////";
   blockquote {
     color: rgba($base-background, 0.7);
     border-color: rgba($base-background, 0.7);
+  }
+
+  h1 {
+    color: $header-color;
   }
 
   summary {
