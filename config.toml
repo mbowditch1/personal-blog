@@ -1,5 +1,7 @@
 title = "Matt Bowditch"
 
+description = "I am a PhD student studying at the University of Warwick in the field of machine learning."
+
 # The URL the site will be built for
 base_url = "https://personal-blog-97k.pages.dev"
 
